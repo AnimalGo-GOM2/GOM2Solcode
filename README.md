@@ -1,2 +1,14 @@
 # GOM2Solcode
-GOM2 Solcode
+GOM2.sol
+
+# Network
+Ethereum
+
+# Name
+GoMoney2
+
+# Symbol
+GOM2
+
+# CA
+0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7
