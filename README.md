@@ -1,5 +1,4 @@
-# GOM2Solcode
-GOM2.sol
+# GOM2 Solidity
 
 ## Network
 Ethereum
