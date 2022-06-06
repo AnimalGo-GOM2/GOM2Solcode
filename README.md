@@ -10,7 +10,14 @@ GoMoney2
 GOM2
 
 ## CA
-0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7
+0x6bEC0cb45494e7019EE6dFa94439C660b2373944
 
 ## etherscan
-https://etherscan.io/token/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7
+https://etherscan.io/address/0x6bEC0cb45494e7019EE6dFa94439C660b2373944
+
+## License and Intellectual Property included in this Contracts
+---
+
+Code released under the MIT License.
+
+GoMoney2 Token Contract and test suites include code from [OpenZeppelin](https://www.openzeppelin.com/) under the MIT license.
